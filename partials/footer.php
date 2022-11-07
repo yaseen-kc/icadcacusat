@@ -39,13 +39,13 @@
                         <a href="#" class="footer-logo"><img src="img/logo.png"width="200" alt=""></a>
                     </div> -->
                     <ul>
-                    <li><a href="index.php#about">ABOUT US</a></li>
-                      <li><a href="committee.php">COMMITTEE</a>
+                    <li><a href="index.html#about">ABOUT US</a></li>
+                      <li><a href="committee.html">COMMITTEE</a>
                       </li>
-                      <li><a href="call-for-papper.php">CALL FOR PAPER</a>
-                      <li><a href="index.php#imp_dates">IMPORTANT DATES</a></li>
+                      <li><a href="call-for-papper.html">CALL FOR PAPER</a>
+                      <li><a href="index.html#imp_dates">IMPORTANT DATES</a></li>
                       <!-- <li><a href="./blog.html">Blog</a></li> -->
-                      <li><a href="index.php#registration">REGISTRATIONS</a></li>
+                      <li><a href="index.html#registration">REGISTRATIONS</a></li>
                     </ul>
                     <div class="copyright-text">
                         <p>
