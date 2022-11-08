@@ -103,9 +103,10 @@ a:focus {
 	color: #fff;
 }
 
-.newdate{
+.newdate {
 	font-size: 35px;
 }
+
 .strike {
 	text-decoration: line-through;
 	text-decoration-color: red;
@@ -179,8 +180,13 @@ ol {
 .price-item .tr-tag,
 .schedule-tab .nav-tabs .nav-item .nav-link.active,
 .site-btn {
-	background-image: -o-linear-gradient(330deg, #ee8425 0%, #f9488b 100%), -o-linear-gradient(330deg, #ee8425 0%, #f9488b 100%);
-	background-image: linear-gradient(120deg, #ee8425 0%, #f9488b 100%), linear-gradient(120deg, #ee8425 0%, #f9488b 100%);
+	/* background-image: -o-linear-gradient(330deg, #ee8425 0%, #f9488b 100%), -o-linear-gradient(330deg, #ee8425 0%, #f9488b 100%);
+	background-image: linear-gradient(120deg, #ee8425 0%, #f9488b 100%), linear-gradient(120deg, #ee8425 0%, #f9488b 100%); */
+	/* background-color: #FBAB7E; */
+	background-image: -o-linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+	background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+
+
 }
 
 /* buttons */
@@ -194,8 +200,8 @@ ol {
 	text-align: center;
 	border-radius: 50px;
 	background-image: -webkit-gradient(linear, left top, right top, from(#ee8425), to(#f9488b)), -webkit-gradient(linear, left top, right top, from(#ee8425), to(#f9488b));
-	background-image: -o-linear-gradient(left, #ee8425 0%, #f9488b 100%), -o-linear-gradient(left, #ee8425 0%, #f9488b 100%);
-	background-image: linear-gradient(to right, #ee8425 0%, #f9488b 100%), linear-gradient(to right, #ee8425 0%, #f9488b 100%);
+	background-image: -o-linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+	background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
 }
 
 .site-btn {
@@ -1544,8 +1550,8 @@ ol {
 }
 
 .speaker-item .si-text .si-social a:hover {
-	background: -o-linear-gradient(330deg, #ee8425, #f9488b);
-	background: linear-gradient(120deg, #ee8425, #f9488b);
+	background-image: -o-linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+	background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
 	color: #ffffff;
 }
 
@@ -1670,10 +1676,12 @@ ol {
 .schedule-table-tab .schedule-table-content table tbody tr td.break h5 h3 {
 	margin-bottom: 0;
 }
-
+.info{
+	font-size: 10px;
+}
 .schedule-table-tab .schedule-table-content table tbody tr td.hover-bg:hover {
-	background: -o-linear-gradient(330deg, #ee8425, #f9488b);
-	background: linear-gradient(120deg, #ee8425, #f9488b);
+	background-image: -o-linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
+	background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%);
 }
 
 .schedule-table-tab .schedule-table-content table tbody tr td.hover-bg:hover h5 {
